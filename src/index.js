@@ -1,7 +1,7 @@
 // Require measurements filters
-Bytes    = require('./measurements/bytes');
-KiloCase = require('./measurements/kilo-case');
-KiloCase = require('./measurements/bandwidth');
+Bytes     = require('./measurements/bytes');
+KiloCase  = require('./measurements/kilo-case');
+Bandwidth = require('./measurements/bandwidth');
 
 // Require collections filters
 StartFrom = require('./collections/start-from');
