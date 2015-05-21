@@ -24,4 +24,4 @@ var KiloCase = function (value, decimalPlaces) {
   return value.toFixed(decimalPlaces) + ' ' + units[u];
 };
 
-module.exports = KiloCase;
+module.exports = KiloCase; 
